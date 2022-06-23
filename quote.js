@@ -1,5 +1,6 @@
   
-  function getQuote(){
+const twitterButton = document.querySelector('#tweetquote');  
+function getQuote(){
     var randomNumber = Math.floor(Math.random() * quote.length)
     document.getElementById('text').innerHTML = quote[randomNumber];
   }
