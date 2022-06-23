@@ -6,7 +6,7 @@ function getQuote(){
   }
   
  function setTweetButton(quote) {
-  tweetquote.setAttribute('href', `https://twitter.com/share?text=${quote} - Donald Trump`);
+  tweetButton.setAttribute('href', `https://twitter.com/share?text=${quote} - Donald Trump`);
 }
 
   let quote = [
