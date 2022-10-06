@@ -1,4 +1,5 @@
 Random quote generator machine. 
+
 -> The purpose of this project is to inspire the user's and stay motivated all the time. 
 
 -> This project is developed using html, css and js. 
